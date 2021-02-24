@@ -1,6 +1,6 @@
 BarrelCrudeCoin Project
 ===================================== 
-![](share/pixmaps/bitcoin256.png)
+![](share/pixmaps/oil-02.jpg)
  
 ---------------- 
 BarrelCrudeCoin
