@@ -28,7 +28,7 @@ with an ultra-fast payment system with the mobile App.
 You can recharge the batteries of your electric vehicle at gas stations 
 and pay comfortably with your mobile phone.
 
-![](share/oil-01.png)
+![](share/oil-03.png)
 
 License
 -------
