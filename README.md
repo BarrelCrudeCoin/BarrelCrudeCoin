@@ -16,20 +16,7 @@ Currently the world oil reserves are 1,700,804 Billion barrels and 1,700,804 Mil
 
 ----------------
 
-August 27, 1859, at a depth of 23 meters, the precious liquid finally began to flow. With the help of a pump, Drake's men started the extraction: on the first day of work they already filled 25 barrels.
-
-In 2021, barrels of crude oil continue to be extracted and there are still many years of extraction, but the conversion to electric vehicles is a present and future reality.
-
-The objective of BARRELCRUDE, to be the link between classical oil extraction and electric crude extraction. 
-
-This currency will be the new fuel for your electric vehicle,
-with an ultra-fast payment system with the mobile App.
-
-You can recharge the batteries of your electric vehicle at gas stations 
-and pay comfortably with your mobile phone.
-
-![](share/oil-03.png)
-
+![](share/oil-01.png)
 
 ---------------- 
 Specifications ![](share/pixmaps/bitcoin16.png)
@@ -59,7 +46,23 @@ Specifications ![](share/pixmaps/bitcoin16.png)
 + #### 97 years  and 28 days of mining process with rewards (approximately)
 
 
-![](share/oil-01.png)
+
+----------------
+
+August 27, 1859, at a depth of 23 meters, the precious liquid finally began to flow. With the help of a pump, Drake's men started the extraction: on the first day of work they already filled 25 barrels.
+
+In 2021, barrels of crude oil continue to be extracted and there are still many years of extraction, but the conversion to electric vehicles is a present and future reality.
+
+The objective of BARRELCRUDE, to be the link between classical oil extraction and electric crude extraction. 
+
+This currency will be the new fuel for your electric vehicle,
+with an ultra-fast payment system with the mobile App.
+
+You can recharge the batteries of your electric vehicle at gas stations 
+and pay comfortably with your mobile phone.
+
+![](share/oil-03.png)
+
 
 License
 -------
