@@ -3,7 +3,7 @@ BarrelCrudeCoin Project ![](share/pixmaps/bitcoin32.png)
 ![](share/oil-02.jpg)
  
 ---------------- 
-BarrelCrudeCoin
+BarrelCrudeCoin ![](share/pixmaps/bitcoin16.png)
 ----------------
 https://www.barrelcrudecoin.com/
 
