@@ -53,7 +53,7 @@ August 27, 1859, at a depth of 23 meters, the precious liquid finally began to f
 
 In 2021, barrels of crude oil continue to be extracted and there are still many years of extraction, but the conversion to electric vehicles is a present and future reality.
 
-The objective of BARRELCRUDE, to be the link between classical oil extraction and electric crude extraction. 
+The objective of BARRELCRUDECOIN, to be the link between classical oil extraction and electric crude extraction. 
 
 This currency will be the new fuel for your electric vehicle,
 with an ultra-fast payment system with the mobile App.
