@@ -9,7 +9,7 @@ https://www.barrelcrudecoin.com/
 
 Join our Discord - https://discord.gg/NfSw2CPqEQ
 
-BARRELCRUDE It is a currency based on the number of barrels of crude 
+BARRELCRUDECOIN Is a currency based on the number of barrels of crude 
 that still remain to be extracted from the planet since 2021. 
 
 Currently the world oil reserves are 1,700,804 Billion barrels and 1,700,804 Million coins will be created.
@@ -29,6 +29,37 @@ You can recharge the batteries of your electric vehicle at gas stations
 and pay comfortably with your mobile phone.
 
 ![](share/oil-03.png)
+
+
+---------------- 
+Specifications ![](share/pixmaps/bitcoin16.png)
+----------------
++ #### name: BarrelCrudeCoin
+
++ #### ticker: BCC
+
++ #### max supply: 1,700,804
+
++ #### p2p port: 3335
+
++ #### rpc port: 3334
+
++ #### block maturity: 150
+
++ #### block time: 15 seconds
+
++ #### block reward: 0.1 BCC
+
++ #### block premined: none
+
++ #### block difficulty: 1 block (15 seconds)
+
++ #### halving: 8,504,020 (4 years 16 days approximately)
+
++ #### 97 years  and 28 days of mining process with rewards (approximately)
+
+
+![](share/oil-01.png)
 
 License
 -------
