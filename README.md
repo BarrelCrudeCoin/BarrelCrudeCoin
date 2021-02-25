@@ -7,7 +7,7 @@ BarrelCrudeCoin ![](share/pixmaps/bitcoin16.png)
 ----------------
 https://www.barrelcrudecoin.com/
 
-Join our Discord - https://discord.gg/NfSw2CPqEQ
+Join our Discord - https://discord.gg/JdF9GqbQ
 
 BARRELCRUDECOIN Is a currency based on the number of barrels of crude 
 that still remain to be extracted from the planet since 2021. 
