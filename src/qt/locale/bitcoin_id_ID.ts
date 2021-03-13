@@ -905,7 +905,7 @@
         <translation><numerusform>%n GB ruang kosong tersedia.</numerusform></translation>
     </message>
     <message numerus="yes">
-        <source>(of %n GB needed)</source>
+        <source>(of %n MB needed)</source>
         <translation><numerusform>(dari %n GB yang dibutuhkan)</numerusform></translation>
     </message>
 </context>

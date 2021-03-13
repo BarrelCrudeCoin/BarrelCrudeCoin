@@ -1179,10 +1179,10 @@
     </message>
     <message numerus="yes">
         <location line="+3"/>
-        <source>(of %n GB needed)</source>
+        <source>(of %n MB needed)</source>
         <translation>
-            <numerusform>(of %n GB needed)</numerusform>
-            <numerusform>(of %n GB needed)</numerusform>
+            <numerusform>(of %n MB needed)</numerusform>
+            <numerusform>(of %n MB needed)</numerusform>
         </translation>
     </message>
 </context>

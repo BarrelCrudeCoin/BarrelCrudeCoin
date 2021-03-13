@@ -933,7 +933,7 @@
         <translation><numerusform>%n ГБ свободного места</numerusform><numerusform>%n ГБ свободного места</numerusform><numerusform>%n ГБ свободного места</numerusform><numerusform>%n ГБ свободного места</numerusform></translation>
     </message>
     <message numerus="yes">
-        <source>(of %n GB needed)</source>
+        <source>(of %n MB needed)</source>
         <translation><numerusform>(требуется %n ГБ)</numerusform><numerusform>(%n ГБ требуется)</numerusform><numerusform>(%n ГБ требуется)</numerusform><numerusform>(%n ГБ требуется)</numerusform></translation>
     </message>
 </context>

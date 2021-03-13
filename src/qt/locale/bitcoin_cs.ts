@@ -933,7 +933,7 @@
         <translation><numerusform>%n GB volného místa</numerusform><numerusform>%n GB volného místa</numerusform><numerusform>%n GB volného místa</numerusform><numerusform>%n GB volného místa</numerusform></translation>
     </message>
     <message numerus="yes">
-        <source>(of %n GB needed)</source>
+        <source>(of %n MB needed)</source>
         <translation><numerusform>(z potřebného %n GB)</numerusform><numerusform>(z potřebných %n GB)</numerusform><numerusform>(z potřebných %n GB)</numerusform><numerusform>(z potřebných %n GB)</numerusform></translation>
     </message>
 </context>

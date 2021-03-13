@@ -891,7 +891,7 @@
         <translation><numerusform>%n GB of free space available</numerusform></translation>
     </message>
     <message numerus="yes">
-        <source>(of %n GB needed)</source>
+        <source>(of %n MB needed)</source>
         <translation><numerusform>(of %n GB cần thiết)</numerusform></translation>
     </message>
 </context>

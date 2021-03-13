@@ -933,7 +933,7 @@
         <translation><numerusform>%n GB freier Speicher verfügbar</numerusform><numerusform>%n GB freier Speicher verfügbar</numerusform></translation>
     </message>
     <message numerus="yes">
-        <source>(of %n GB needed)</source>
+        <source>(of %n MB needed)</source>
         <translation><numerusform>(von %n GB benötigt)</numerusform><numerusform>(von %n GB benötigt)</numerusform></translation>
     </message>
 </context>

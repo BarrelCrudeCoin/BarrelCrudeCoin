@@ -873,7 +873,7 @@
         <translation><numerusform>%n GB swobodnego placu dostympne</numerusform><numerusform>%n GB swobodnego placu dostympne</numerusform><numerusform>%n GB swobodnego placu dostympne</numerusform></translation>
     </message>
     <message numerus="yes">
-        <source>(of %n GB needed)</source>
+        <source>(of %n MB needed)</source>
         <translation><numerusform>(z %n GB przidajnego)</numerusform><numerusform>(z %n GB przidajnych)</numerusform><numerusform>(z %n GB przidajnych)</numerusform></translation>
     </message>
 </context>

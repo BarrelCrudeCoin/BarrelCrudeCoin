@@ -769,7 +769,7 @@
         <translation><numerusform>%n GB ελεύθερου χώρου διαθέσιμα</numerusform><numerusform>%n GB ελεύθερου χώρου διαθέσιμα</numerusform></translation>
     </message>
     <message numerus="yes">
-        <source>(of %n GB needed)</source>
+        <source>(of %n MB needed)</source>
         <translation><numerusform>(από το %n GB που απαιτείται)</numerusform><numerusform>(από τα %n GB που απαιτούνται)</numerusform></translation>
     </message>
 </context>

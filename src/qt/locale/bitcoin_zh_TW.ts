@@ -917,7 +917,7 @@
         <translation><numerusform>可用空間尚存 %n GB</numerusform></translation>
     </message>
     <message numerus="yes">
-        <source>(of %n GB needed)</source>
+        <source>(of %n MB needed)</source>
         <translation><numerusform>(需要 %n GB)</numerusform></translation>
     </message>
 </context>

@@ -933,7 +933,7 @@
         <translation><numerusform>利用可能な空き容量 %n GB</numerusform></translation>
     </message>
     <message numerus="yes">
-        <source>(of %n GB needed)</source>
+        <source>(of %n MB needed)</source>
         <translation><numerusform>(%n GB必要)</numerusform></translation>
     </message>
 </context>

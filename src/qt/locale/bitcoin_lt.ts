@@ -933,7 +933,7 @@
         <translation><numerusform>%n GB laisvos vietos</numerusform><numerusform>%n GB laisvos vietos</numerusform><numerusform>%n GB laisvos vietos</numerusform><numerusform>%n GB laisvos vietos</numerusform></translation>
     </message>
     <message numerus="yes">
-        <source>(of %n GB needed)</source>
+        <source>(of %n MB needed)</source>
         <translation><numerusform>(reikalinga %n GB)</numerusform><numerusform>(reikalinga %n GB)</numerusform><numerusform>(reikalinga %n GB)</numerusform><numerusform>(reikalinga %n GB)</numerusform></translation>
     </message>
 </context>

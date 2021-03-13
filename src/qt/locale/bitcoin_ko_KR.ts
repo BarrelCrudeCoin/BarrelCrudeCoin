@@ -933,7 +933,7 @@
         <translation><numerusform>%n GB 사용가능</numerusform></translation>
     </message>
     <message numerus="yes">
-        <source>(of %n GB needed)</source>
+        <source>(of %n MB needed)</source>
         <translation><numerusform>(%n GB가 필요)</numerusform></translation>
     </message>
 </context>

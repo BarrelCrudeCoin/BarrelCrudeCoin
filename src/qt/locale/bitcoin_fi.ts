@@ -897,7 +897,7 @@
         <translation><numerusform>%n GB tilaa vapaana</numerusform><numerusform>%n GB tilaa vapaana</numerusform></translation>
     </message>
     <message numerus="yes">
-        <source>(of %n GB needed)</source>
+        <source>(of %n MB needed)</source>
         <translation><numerusform>(tarvitaan %n GB)</numerusform><numerusform>(tarvitaan %n GB)</numerusform></translation>
     </message>
 </context>

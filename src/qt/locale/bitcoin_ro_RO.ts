@@ -877,7 +877,7 @@
         <translation><numerusform>%n GB de spaţiu liber disponibil</numerusform><numerusform>%n GB de spaţiu liber disponibil</numerusform><numerusform>%n GB de spaţiu liber disponibil</numerusform></translation>
     </message>
     <message numerus="yes">
-        <source>(of %n GB needed)</source>
+        <source>(of %n MB needed)</source>
         <translation><numerusform>(din %n GB necesar)</numerusform><numerusform>(din %n GB necesari)</numerusform><numerusform>(din %n GB necesari)</numerusform></translation>
     </message>
 </context>

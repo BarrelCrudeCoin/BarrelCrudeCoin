@@ -933,8 +933,8 @@
         <translation><numerusform>%n GB of free space available</numerusform><numerusform>%n GB of free space available</numerusform></translation>
     </message>
     <message numerus="yes">
-        <source>(of %n GB needed)</source>
-        <translation><numerusform>(of %n GB needed)</numerusform><numerusform>(of %n GB needed)</numerusform></translation>
+        <source>(of %n MB needed)</source>
+        <translation><numerusform>(of %n MB needed)</numerusform><numerusform>(of %n MB needed)</numerusform></translation>
     </message>
 </context>
 <context>

@@ -933,7 +933,7 @@
         <translation><numerusform>%n Go d’espace libre disponible</numerusform><numerusform>%n Go d’espace libre disponibles</numerusform></translation>
     </message>
     <message numerus="yes">
-        <source>(of %n GB needed)</source>
+        <source>(of %n MB needed)</source>
         <translation><numerusform>(sur %n Go requis)</numerusform><numerusform>(sur %n Go requis)</numerusform></translation>
     </message>
 </context>
