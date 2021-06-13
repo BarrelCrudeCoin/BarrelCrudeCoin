@@ -104,10 +104,10 @@ public:
         consensus.vDeployments[Consensus::DEPLOYMENT_SEGWIT].nTimeout = Consensus::BIP9Deployment::NO_TIMEOUT;
 
         // The best chain should have at least this much work.
-        consensus.nMinimumChainWork = uint256S("0x000000000000000000000000000000000000000000000000001edfa1b0d7d1e5");
+        consensus.nMinimumChainWork = uint256S("0x0000000000000000000000000000000000000000000000000058eb1aed0b5645");
 
         // By default assume that the signatures in ancestors of this block are valid.
-        consensus.defaultAssumeValid = uint256S("0x39df3af7f58ca9c07e6459f9733db3067078a3be0fc99ca0fbc3b598135b759b");
+        consensus.defaultAssumeValid = uint256S("0x278f821fec9c61f582631a50f8c3c372ccdc60c88e680d204b7c9f62ec70aae3");
 
         /**
          * The message start string is designed to be unlikely to occur in normal data.
@@ -135,6 +135,7 @@ public:
         // release ASAP to avoid it where possible.
         vSeeds.emplace_back("66.42.126.25");
         vSeeds.emplace_back("140.82.43.79");
+        vSeeds.emplace_back("65.21.89.182");
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,85);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,26);
@@ -155,14 +156,15 @@ public:
             {
                 {  0, uint256S("0xed3e784eadbe724d94a0e0909c9984ef88ad165d88c1071637cf2bcf50692ca9")},
                 {  23900, uint256S("0x39df3af7f58ca9c07e6459f9733db3067078a3be0fc99ca0fbc3b598135b759b")},
+                {  184000, uint256S("0x278f821fec9c61f582631a50f8c3c372ccdc60c88e680d204b7c9f62ec70aae3")},
             }
         };
 
         chainTxData = ChainTxData{
-            // Data from rpc: getchaintxstats 23900 39df3af7f58ca9c07e6459f9733db3067078a3be0fc99ca0fbc3b598135b759b
-            /* nTime    */ 1616332862,
-            /* nTxCount */ 30227,
-            /* dTxRate  */ 0.02783774225752145
+            // Data from rpc: getchaintxstats
+            /* nTime    */ 1623548389,
+            /* nTxCount */ 205996,
+            /* dTxRate  */ 0.02481286400937414
         };
 
         /* disable fallback fee on mainnet */
