@@ -29,16 +29,16 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>BarrelCrudeCoin-Qt</string>
+  <string>Barrelcrudecoin-Qt</string>
   
   <key>CFBundleName</key>
-  <string>BarrelCrudeCoin-Qt</string>
+  <string>Barrelcrudecoin-Qt</string>
 
   <key>LSHasLocalizedDisplayName</key>
   <true/>
 
   <key>CFBundleIdentifier</key>
-  <string>org.barrelcrudecoin.BarrelCrudeCoin-Qt</string>
+  <string>com.barrelcrudecoin.Barrelcrudecoin-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -46,7 +46,7 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>org.barrelcrudecoin.BarrelCrudeCoinPayment</string>
+      <string>com.barrelcrudecoin.BarrelcrudecoinPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
         <string>barrelcrudecoin</string>
@@ -58,9 +58,9 @@
   <array>
     <dict>
       <key>UTTypeIdentifier</key>
-      <string>org.barrelcrudecoin.paymentrequest</string>
+      <string>com.barrelcrudecoin.paymentrequest</string>
       <key>UTTypeDescription</key>
-      <string>BarrelCrudeCoin payment request</string>
+      <string>Barrelcrudecoin payment request</string>
       <key>UTTypeConformsTo</key>
       <array>
         <string>public.data</string>
@@ -84,7 +84,7 @@
       <string>Editor</string>
       <key>LSItemContentTypes</key>
       <array>
-        <string>org.barrelcrudecoin.paymentrequest</string>
+        <string>com.barrelcrudecoin.paymentrequest</string>
       </array>
       <key>LSHandlerRank</key>
       <string>Owner</string>
