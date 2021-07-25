@@ -104,10 +104,10 @@ public:
         consensus.vDeployments[Consensus::DEPLOYMENT_SEGWIT].nTimeout = Consensus::BIP9Deployment::NO_TIMEOUT;
 
         // The best chain should have at least this much work.
-        consensus.nMinimumChainWork = uint256S("0x0000000000000000000000000000000000000000000000000058eb1aed0b5645");
+        consensus.nMinimumChainWork = uint256S("0x000000000000000000000000000000000000000000000000006023583a5ee3a5");
 
         // By default assume that the signatures in ancestors of this block are valid.
-        consensus.defaultAssumeValid = uint256S("0x278f821fec9c61f582631a50f8c3c372ccdc60c88e680d204b7c9f62ec70aae3");
+        consensus.defaultAssumeValid = uint256S("0x926376a1a508a5303914b4b3c682a67d3c5e718819df10c66e26bd28644cecb9");
 
         /**
          * The message start string is designed to be unlikely to occur in normal data.
@@ -133,9 +133,7 @@ public:
         // This is fine at runtime as we'll fall back to using them as a oneshot if they don't support the
         // service bits we want, but we should get them updated to support all service bits wanted by any
         // release ASAP to avoid it where possible.
-        vSeeds.emplace_back("66.42.126.25");
-        vSeeds.emplace_back("140.82.43.79");
-        vSeeds.emplace_back("65.21.89.182");
+        //vSeeds.emplace_back("");
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,85);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,26);
@@ -157,14 +155,15 @@ public:
                 {  0, uint256S("0xed3e784eadbe724d94a0e0909c9984ef88ad165d88c1071637cf2bcf50692ca9")},
                 {  23900, uint256S("0x39df3af7f58ca9c07e6459f9733db3067078a3be0fc99ca0fbc3b598135b759b")},
                 {  184000, uint256S("0x278f821fec9c61f582631a50f8c3c372ccdc60c88e680d204b7c9f62ec70aae3")},
+                {  276000, uint256S("0x926376a1a508a5303914b4b3c682a67d3c5e718819df10c66e26bd28644cecb9")},
             }
         };
 
         chainTxData = ChainTxData{
             // Data from rpc: getchaintxstats
-            /* nTime    */ 1623548389,
-            /* nTxCount */ 205996,
-            /* dTxRate  */ 0.02481286400937414
+            /* nTime    */ 1627239185,
+            /* nTxCount */ 302740,
+            /* dTxRate  */ 0.02524261434239754
         };
 
         /* disable fallback fee on mainnet */
