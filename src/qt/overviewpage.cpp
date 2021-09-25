@@ -19,7 +19,7 @@
 #include <QPainter>
 
 #define DECORATION_SIZE 54
-#define NUM_ITEMS 8
+#define NUM_ITEMS 9
 
 Q_DECLARE_METATYPE(interfaces::WalletBalances)
 
