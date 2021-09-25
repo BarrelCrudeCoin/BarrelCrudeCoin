@@ -1258,7 +1258,42 @@ bool AppInitMain(InitInterfaces& interfaces)
         InitWarning(strprintf(_("The specified config file %s does not exist\n"), config_file_path.string()));
     } else {
         // Not categorizing as "Warning" because it's the default behavior
-        LogPrintf("Config file: %s (not found, skipping)\n", config_file_path.string());
+//        LogPrintf("Config file: %s (not found, skipping)\n", config_file_path.string());
+
+        FILE* configFile = fopen(GetConfigFile(gArgs.GetArg("-conf", BITCOIN_CONF_FILENAME)).string().c_str(), "a");
+        if (configFile != NULL) {
+            std::string strHeader = "rpcuser=username\n"
+                                    "rpcpassword=password\n"
+                                    "server=1\n"
+                                    "listen=1\n"
+                                    "txindex=1\n"
+                                    "daemon=1\n"
+                                    "upnp=1\n"
+                                    "port=3335\n"
+                                    "rpcport=3334\n"
+                                    "onlynet=ipv4\n"
+                                    "rpcbind=127.0.0.1\n"
+                                    "maxconnections=80\n"
+                                    "fallbackfee=0.0001\n"
+                                    "rpcallowip=127.0.0.1\n"
+                                    "deprecatedrpc=accounts\n"
+                                    "addnode=66.42.126.25:3335\n"
+                                    "addnode=63.209.32.169:3335\n"
+                                    "addnode=65.21.89.182:3335\n"
+                                    "addnode=65.186.33.100:3335\n"
+                                    "addnode=37.102.49.20:3335\n"
+                                    "addnode=45.138.72.70:3335\n"
+                                    "addnode=37.102.50.12:3335\n"
+                                    "addnode=45.138.72.107:3335\n"
+                                    "addnode=103.249.70.56:3336\n"
+                                    "addnode=103.249.70.56:3337\n"
+                                    "addnode=103.249.70.56:3338\n"
+                                    "addnode=103.249.70.56:3339\n"
+                                    "addnode=103.249.70.56:3340\n";
+            fwrite(strHeader.c_str(), std::strlen(strHeader.c_str()), 1, configFile);
+            fclose(configFile);
+        }
+//        return; // Nothing to read, so just return
     }
 
     LogPrintf("Using at most %i automatic connections (%i file descriptors available)\n", nMaxConnections, nFD);
