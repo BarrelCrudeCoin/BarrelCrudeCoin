@@ -54,13 +54,11 @@ August 27, 1859, at a depth of 23 meters, the precious liquid finally began to f
 
 In 2021, barrels of crude oil continue to be extracted and there are still many years of extraction, but the conversion to electric vehicles is a present and future reality.
 
-The objective of BARRELCRUDECOIN, to be the link between classical oil extraction and electric crude extraction. 
+The objective of BARRELCRUDECOIN, to be the link between classical oil extraction and electric crude extraction and reuse mining energy for a new use. 
 
-This currency will be the new fuel for your electric vehicle,
-with an ultra-fast payment system with the mobile App.
+This currency will be the new fuel for your electric vehicle, with an ultra-fast payment system with the mobile App and a very secure Blockchain
 
-You can recharge the batteries of your electric vehicle at gas stations 
-and pay comfortably with your mobile phone.
+BCC was born out of the need to create the first decentralized and universal currency for recharging electric vehicles.
 
 
 License
